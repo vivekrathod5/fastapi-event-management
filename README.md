@@ -5,18 +5,18 @@
 
 ## 📌 Overview
 This is a **FastAPI-based Event Management API** with the following features:
-- **User Authentication** (Signup/Login) using JWT
-- **Event Management** (Create, List, Update, Auto-Complete Past Events)
-- **Attendee Management** (Register, Check-in)
-- **Database:** SQLite (can be extended to PostgreSQL)
-- **Containerized with Docker**
-- **Tested with Pytest**
+- User Authentication (Signup/Login) using JWT
+- Event Management (Create, List, Update, Auto-Complete Past Events)
+- Attendee Management (Register, Check-in)
+- Database: SQLite (can be extended to PostgreSQL)
+- Containerized with Docker**
+- Tested with Pytest
 
 ## 📌 Installation
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/fastapi-event-management.git
+git clone https://github.com/vivekrathod5/fastapi-event-management.git
 cd fastapi-event-management
 ```
 
