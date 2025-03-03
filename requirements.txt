@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pyjwt
+sqlalchemy
+pydantic
+passlib[bcrypt]
+django-environ
+pytest
+httpx
+apscheduler
